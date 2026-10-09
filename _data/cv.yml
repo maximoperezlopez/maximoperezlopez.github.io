@@ -12,6 +12,13 @@ cv:
     - network: LinkedIn
       username: https://www.linkedin.com/in/m%C3%A1ximo-p%C3%A9rez-l%C3%B3pez-66653a1a2/
 
+  address:
+    street: 2712 Broadway St
+    city: San Francisco
+    region: California
+    postalCode: CA 94115
+    countryCode: US
+
   sections:
     Education:
       - institution: Technical University of Denmark (DTU)
@@ -21,11 +28,12 @@ cv:
         studyType: PhD
         start_date: 2023
         end_date: 2026
+        score: ""
         courses: "Computational Geometry, Randomized Algorithms"
         highlights:
-          - I tailored an existing hierarchical relative compression implementation to DNA sequences, improving the compression runtime by an order of magnitude, and achieving half the size for the compression of diverse bacterial datasets in comparison to simple relative compression.
-          - I led a project to design a more efficient algorithm to determinize Wheeler graphs, achieving almost output-sensitive time and almost quadratic improvement over the state of the art. 
-          - Four papers published in conference venues (SOFSEM, CPM, SEA and SPIRE), and a journal version in Information and Computation.
+          - "I tailored an existing hierarchical relative compression implementation to DNA sequences, improving the compression runtime by an order of magnitude, and achieving half the size for the compression of diverse bacterial datasets in comparison to simple relative compression."
+          - "I led a project to design a more efficient algorithm to determinize Wheeler graphs, achieving almost output-sensitive time and almost quadratic improvement over the state of the art. "
+          - "Four papers published in conference venues (SOFSEM, CPM, SEA and SPIRE), and a journal version in Information and Computation."
 
       - institution: Technical University of Denmark (DTU)
         location: Kongens Lyngby, Denmark
@@ -35,8 +43,8 @@ cv:
         end_date: 2023
         courses: "Algorithms for Massive Data Sets, Special course in Uniquely Hamiltonian Graphs, Algebraic Error-Correcting Codes"
         highlights:
-          - Master Thesis in efficient algorithms for theoretical vector processor models. The work led to a publication in SOFSEM 2025.
-          - Graduation with Honours.
+          - "Master Thesis in efficient algorithms for theoretical vector processor models. The work led to a publication in SOFSEM 2025."
+          - "Graduation with Honours."
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
